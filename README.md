@@ -12,5 +12,6 @@ Using Linear Regression
  
 Pakages used  - pandas, numpy, matplotlib , seaborn, Scikitlearn. 
 
-Files Attached-    1---- Ecommerce Customers.csv
-                   2----- Ecom.ipynb
+Files Attached-    
+1---- Ecommerce Customers.csv
+2----- Ecom.ipynb
